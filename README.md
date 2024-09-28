@@ -7,7 +7,7 @@ The Crab Project is a decentralized investment pool on the Aptos blockchain. It 
 - Investment Pool: Invest and withdraw USDC, receive CRAB tokens as a stake.
 - Epoch Tracking: Manage time-based events like profit distributions.
 
-#Quick Links
+# Quick Links
 Transaction Explorer: View Contract on Aptos Explorer
 https://explorer.aptoslabs.com/txn/0xbb7c51564c3431545531d966c904c4ad726632560787755cc713c36b6b281bae/userTxnOverview?network=devnet
 
