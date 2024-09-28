@@ -1,0 +1,16 @@
+[package]
+name = "crab_project"
+version = "1.0.0"
+authors = []
+
+[addresses]
+crab_project = "0x4647dfb4a28d6bc399967e836aa079b6e3244201f0aa21e1854f90864da813bb"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
