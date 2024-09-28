@@ -31,3 +31,5 @@ After compiling, deploy the contract using:
 ```
 aptos move publish --package-dir <path-to-your-package> --profile devnet
 ```
+# Sequence Diagram
+![image](https://github.com/user-attachments/assets/9ae56425-0d74-40f9-910a-72a7edbfe567)
