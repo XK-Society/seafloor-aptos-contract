@@ -1,6 +1,6 @@
-# Crab Project: Aptos Move Smart Contract
+# SeaFloorFinance: Aptos Move Smart Contract
 # Overview
-The Crab Project is a decentralized investment pool on the Aptos blockchain. It includes a native token (CRAB), an epoch-based profit distribution system, and a liquidity pool for USDC investments.
+The SeaFloorFinance Project is a decentralized investment pool on the Aptos blockchain. It includes a native token (CRAB), an epoch-based profit distribution system, and a liquidity pool for USDC investments.
 
 # Key Features:
 - CRAB Token: Mint, transfer, and burn CRAB tokens.
