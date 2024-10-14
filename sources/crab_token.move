@@ -1,3 +1,4 @@
+// File: sources/crab_token.move
 module crab_project::crab_token {
     use std::string;
     use std::option;
